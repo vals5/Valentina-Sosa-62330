@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "nombre": "Leche",
+      "precio": 200,
+      "img": "https://images.unsplash.com/photo-1602153508753-4ace888c10a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cantidad": 1,
+      "description": "Leche de vaca"
+    },
+  
+    {
+      "id": 2,
+      "nombre": "Tomates",
+      "precio": 150,
+      "img": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cantidad": 1,
+      "description": "Tomates redondos"
+    },
+  
+    {
+      "id": 3,
+      "nombre": "Galletitas",
+      "precio": 100,
+      "img": "https://images.unsplash.com/photo-1583743089695-4b816a340f82?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cantidad": 1,
+      "description": "Galletitas con chips"
+    },
+  
+    {
+      "id": 4,
+      "nombre": "Harina",
+      "precio": 150,
+      "img": "https://images.unsplash.com/photo-1589854522013-6fba220e52b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cantidad": 1,
+      "description": "Harina 0000"
+    }
+  ]
